@@ -1,2 +1,2 @@
 #!/bin/bash
-100-change_owner_and_group
+chown vincent.staff *
