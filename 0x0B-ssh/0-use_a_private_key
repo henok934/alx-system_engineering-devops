@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# create server with ssh 
+ssh -i ~/.ssh/school ubuntu@18.205.38.219
